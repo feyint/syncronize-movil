@@ -1,0 +1,66 @@
+[
+    {
+        "ESTADO": 1,
+        "FVBENCUES_ID": null,
+        "COORDENADA_Y": "5",
+        "DIRECCION": "DDSF",
+        "CODIGO": "324234",
+        "FUCZONCUI_FUCBARVER_ID": 1,
+        "WEB_ID": null,
+        "COORDENADA_X": "4",
+        "ID": 1,
+        "FUCZONCUI_FUCBARVER": [
+            {
+                "ID": 1,
+                "FUCZONCUI_ID": 1,
+                "FUCBARVER_ID": 2
+            }
+        ],
+        "FNBNUCVIV": [
+            {
+                "ID": 1,
+                "WEB_ID": null,
+                "CODIGO": "345345",
+                "HUMO_CASA": "S",
+                "RESIDUO_BOR": "ASD",
+                "RESIDUO_PELIGROSO": "SDF",
+                "ANIMAL_VACUNADO": 3,
+                "ANIMAL_NOVACUNADO": 3,
+                "RIESGO": "S",
+                "OBSERVACION": "DDDD",
+                "LUGAR_COCINA": "DSF",
+                "HUMO_DENTRO": "S",
+                "ACCESO_INTERNET": "S",
+                "TOTAL_ANIMAL": 3,
+                "FUBUBIVIV_ID": 1,
+                "FNBNUCVIV_FVCCONVIV": [],
+                "FNBNUCVIV_FNCPERSON": [
+                    {
+                        "ID": 1,
+                        "FNBNUCVIV_ID": 1,
+                        "FNCPERSON_ID": 1
+                    }
+                ]
+            },
+            {
+                "ID": 2,
+                "WEB_ID": null,
+                "CODIGO": "6456456",
+                "HUMO_CASA": 4,
+                "RESIDUO_BOR": "7",
+                "RESIDUO_PELIGROSO": "7",
+                "ANIMAL_VACUNADO": 7,
+                "ANIMAL_NOVACUNADO": 7,
+                "RIESGO": 6,
+                "OBSERVACION": "56456",
+                "LUGAR_COCINA": "DFGD",
+                "HUMO_DENTRO": 4,
+                "ACCESO_INTERNET": 5,
+                "TOTAL_ANIMAL": 7,
+                "FUBUBIVIV_ID": 1,
+                "FNBNUCVIV_FVCCONVIV": [],
+                "FNBNUCVIV_FNCPERSON": []
+            }
+        ]
+    }
+]

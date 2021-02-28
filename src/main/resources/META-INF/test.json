@@ -1,0 +1,140 @@
+{
+    "estado": 1,
+    "encuestador": null,
+    "coordenada_x": 5,
+    "direccion": "DDSF",
+    "codigo": "324234",
+    "idZonaCuidadoBarVer": 1,
+    "web_id": null,
+    "coordenada_x": 4,
+    "id": 1,
+    "zonaCuidadoBarVer": [
+        {
+            "id": 1,
+            "idZonaCuidadado": 1,
+            "idBarVer": 2
+        }
+    ],
+    "nucleoVivienda": [
+        {
+            "id": 1,
+            "web_id": null,
+            "codigo": "345345",
+            "humo_casa": 1,
+            "residuo_bor": 1,
+            "residuo_peligroso": 1,
+            "animal_vacunado": 3,
+            "animal_novacunado": 3,
+            "riesgo": 1,
+            "observacion": "DDDD",
+            "lugar_cocina": 1,
+            "humo_dentro": 2,
+            "acceso_internet": 1,
+            "total_animal": 3,
+            "idNucleoVivienda": 1,
+            "nucleoViviendaCondicionVivienda": [
+                {
+                    "id": 1,
+                    "idNucleoVivienda": 1,
+                    "idCondicionVivienda": 1,
+                    "idEmementoVivienda": 63
+                }
+            ],
+            "nucleoViviendaPersona": [
+                {
+                    "id": 1,
+                    "idNucleoVivienda": 1,
+                    "idPersona": 1
+                }
+            ],
+            "persona": [
+                {
+                    "id": 1,
+                    "codigo": "234234",
+                    "identificacion": "45345345",
+                    "primerNombre": "JOHAN",
+                    "segundoNombre": "FABRICIO",
+                    "primerApellido": "SALAZAR",
+                    "segundoApellido": "BURGOS",
+                    "fechaNacimiento": "1986-11-26",
+                    "telCelular": "234234",
+                    "telAlterno": "234324",
+                    "correoElectronico": "JOHAN@GMAIL.COM",
+                    "FECHA_ACTIVIDAD": "2020-01-01",
+                    "FECHA_CREACION": "2020-01-01",
+                    "tipoIde": 1,
+                    "organizacion": 1,
+                    "lunaIndigena": 1,
+                    "ocupacion": 1,
+                    "municipio": 1,
+                    "parentesco": 1,
+                    "genero": 1,
+                    "puebloIndigena": 1,
+                    "encuestador": 1,
+                    "informacionSalud": [
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "web_id": null,
+            "codigo": "345345",
+            "humo_casa": 1,
+            "residuo_bor": 1,
+            "residuo_peligroso": 1,
+            "animal_vacunado": 3,
+            "animal_novacunado": 3,
+            "riesgo": 1,
+            "observacion": "DDDD",
+            "lugar_cocina": 1,
+            "humo_dentro": 2,
+            "acceso_internet": 1,
+            "total_animal": 3,
+            "idNucleoVivienda": 1,
+            "nucleoViviendaCondicionVivienda": [
+                {
+                    "id": 1,
+                    "idNucleoVivienda": 1,
+                    "idCondicionVivienda": 1,
+                    "idEmementoVivienda": 63
+                }
+            ],
+            "nucleoViviendaPersona": [
+                {
+                    "id": 1,
+                    "idNucleoVivienda": 1,
+                    "idPersona": 1
+                }
+            ],
+            "persona": [
+                {
+                    "id": 1,
+                    "codigo": "234234",
+                    "identificacion": "45345345",
+                    "primerNombre": "JOHAN",
+                    "segundoNombre": "FABRICIO",
+                    "primerApellido": "SALAZAR",
+                    "segundoApellido": "BURGOS",
+                    "fechaNacimiento": "1986-11-26",
+                    "telCelular": "234234",
+                    "telAlterno": "234324",
+                    "correoElectronico": "JOHAN@GMAIL.COM",
+                    "FECHA_ACTIVIDAD": "2020-01-01",
+                    "FECHA_CREACION": "2020-01-01",
+                    "tipoIde": 1,
+                    "organizacion": 1,
+                    "lunaIndigena": 1,
+                    "ocupacion": 1,
+                    "municipio": 1,
+                    "parentesco": 1,
+                    "genero": 1,
+                    "puebloIndigena": 1,
+                    "encuestador": 1,
+                    "informacionSalud": [
+                    ]
+                }
+            ]
+        }
+    ]
+}

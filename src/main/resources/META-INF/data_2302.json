@@ -1,0 +1,115 @@
+[
+  {
+    "estado": 0,
+    "encuestador": 1,
+    "coordenada_x": "2.46403435",
+    "direccion": "Felipe",
+    "codigo": "19001001-0001",
+    "idZonaCuidadoBarVer": 1,
+    "web_id": null,
+    "coordenada_y": "-76.64241634",
+    "id": 1,
+    "zonaCuidadoBarVer": [
+      {
+        "id": 1,
+        "idZonaCuidadado": 1,
+        "idBarVer": 1
+      }
+    ],
+    "nucleoVivienda": [
+      {
+        "id": 1,
+        "web_id": null,
+        "codigo": "19001001-0001-1",
+        "humo_casa": null,
+        "residuo_bor": null,
+        "residuo_peligroso": null,
+        "animal_vacunado": null,
+        "animal_novacunado": null,
+        "riesgo": null,
+        "observacion": null,
+        "lugar_cocina": null,
+        "humo_dentro": null,
+        "acceso_internet": null,
+        "total_animal": null,
+        "nucleoViviendaCondicionVivienda": [],
+        "nucleoViviendaPersona": [
+          {
+            "id": 1,
+            "idNucleoVivienda": 1,
+            "idPersona": 1
+          }
+        ],
+        "persona": [
+          {
+            "id": 1,
+            "codigo": "",
+            "identificacion": "123456879",
+            "primerNombre": "Felipe",
+            "segundoNombre": "",
+            "primerApellido": "Roa",
+            "segundoApellido": "",
+            "fechaNacimiento": "Mon Feb 22 1982 21:22:32 GMT-0500 (-05)",
+            "telCelular": "3135636549",
+            "telAlterno": "",
+            "correoElectronico": "felipperoan@gmail.com",
+            "FECHA_ACTIVIDAD": null,
+            "FECHA_CREACION": null,
+            "tipoIde": 1,
+            "organizacion": 133,
+            "lunaIndigena": 28,
+            "ocupacion": 453,
+            "municipio": 1161,
+            "parentesco": 7,
+            "genero": 2,
+            "puebloIndigena": null,
+            "encuestador": null,
+            "informacionSalud": [
+              {
+                "id": 1,
+                "idPersona": 1,
+                "peso": 75,
+                "talla": 1.75,
+                "TaSistolica": 1,
+                "TaDiastolica": 1,
+                "usoProtesis": 0,
+                "tiempoProtesis": 0,
+                "ultimaVisita": "Sun Feb 14 2021 21:23:44 GMT-0500 (-05)",
+                "fechaMuerte": "",
+                "interpretacionImc": 23,
+                "interpretacionTa": null,
+                "estado": 0,
+                "informacionSaludDesarmonia": []
+              }
+            ],
+            "saludReproductiva": [
+              {
+                "id": 1,
+                "edadPrimeraRegla": null,
+                "gravidez": null,
+                "paridez": null,
+                "aborto": null,
+                "cesarea": null,
+                "nacidosVivos": null,
+                "nacidosMuertos": null,
+                "partoUltimo": null,
+                "ultimaRegla": null,
+                "edadGestacion": null,
+                "partoEstimado": null,
+                "presenciaFam": null,
+                "serologia": null,
+                "vih": null,
+                "resulCitologia": null,
+                "accionCitologia": null,
+                "resulProstata": null,
+                "accionProstata": null,
+                "fncpersonId": 1,
+                "saludReproductiva": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

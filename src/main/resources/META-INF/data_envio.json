@@ -1,0 +1,313 @@
+[
+  {
+    "ESTADO": 1,
+    "FVBENCUES_ID": null,
+    "COORDENADA_Y": "5",
+    "DIRECCION": "DDSF",
+    "CODIGO": "324234",
+    "FUCZONCUI_FUCBARVER_ID": 1,
+    "WEB_ID": null,
+    "COORDENADA_X": "4",
+    "ID": 1,
+    "FUCZONCUI_FUCBARVER": [
+      {
+        "ID": 1,
+        "FUCZONCUI_ID": 1,
+        "FUCBARVER_ID": 2
+      }
+    ],
+    "FNBNUCVIV": [
+      {
+        "ID": 1,
+        "WEB_ID": null,
+        "CODIGO": "345345",
+        "HUMO_CASA": "S",
+        "RESIDUO_BOR": "ASD",
+        "RESIDUO_PELIGROSO": "SDF",
+        "ANIMAL_VACUNADO": 3,
+        "ANIMAL_NOVACUNADO": 3,
+        "RIESGO": "S",
+        "OBSERVACION": "DDDD",
+        "LUGAR_COCINA": "DSF",
+        "HUMO_DENTRO": "S",
+        "ACCESO_INTERNET": "S",
+        "TOTAL_ANIMAL": 3,
+        "FUBUBIVIV_ID": 1,
+        "FNBNUCVIV_FVCCONVIV": [
+          {
+            "ID": 1,
+            "FNBNUCVIV_ID": 1,
+            "FVCCONVIV_ID": 1,
+            "FVCELEVIV_ID": 63
+          }
+        ],
+        "FNBNUCVIV_FNCPERSON": [
+          {
+            "ID": 1,
+            "FNBNUCVIV_ID": 1,
+            "FNCPERSON_ID": 1,
+            "FNCPERSON": []
+          }
+        ]
+      },
+      {
+        "ID": 2,
+        "WEB_ID": null,
+        "CODIGO": "6456456",
+        "HUMO_CASA": 4,
+        "RESIDUO_BOR": "7",
+        "RESIDUO_PELIGROSO": "7",
+        "ANIMAL_VACUNADO": 7,
+        "ANIMAL_NOVACUNADO": 7,
+        "RIESGO": 6,
+        "OBSERVACION": "56456",
+        "LUGAR_COCINA": "DFGD",
+        "HUMO_DENTRO": 4,
+        "ACCESO_INTERNET": 5,
+        "TOTAL_ANIMAL": 7,
+        "FUBUBIVIV_ID": 1,
+        "FNBNUCVIV_FVCCONVIV": [
+          {
+            "ID": 2,
+            "FNBNUCVIV_ID": 2,
+            "FVCCONVIV_ID": 2,
+            "FVCELEVIV_ID": 63
+          }
+        ],
+        "FNBNUCVIV_FNCPERSON": []
+      }
+    ]
+  },
+  {
+    "ESTADO": 0,
+    "FVBENCUES_ID": null,
+    "COORDENADA_Y": "-122.084",
+    "DIRECCION": "calle123",
+    "CODIGO": "19001001-0001",
+    "FUCZONCUI_FUCBARVER_ID": 1,
+    "WEB_ID": null,
+    "COORDENADA_X": "37.421998333333335",
+    "ID": 2,
+    "FUCZONCUI_FUCBARVER": [
+      {
+        "ID": 1,
+        "FUCZONCUI_ID": 1,
+        "FUCBARVER_ID": 2
+      }
+    ],
+    "FNBNUCVIV": [
+      {
+        "ID": 3,
+        "WEB_ID": null,
+        "CODIGO": "19001001-0001-1",
+        "HUMO_CASA": null,
+        "RESIDUO_BOR": "1",
+        "RESIDUO_PELIGROSO": null,
+        "ANIMAL_VACUNADO": 2,
+        "ANIMAL_NOVACUNADO": 3,
+        "RIESGO": 1,
+        "OBSERVACION": "",
+        "LUGAR_COCINA": 1,
+        "HUMO_DENTRO": "true",
+        "ACCESO_INTERNET": "true",
+        "TOTAL_ANIMAL": null,
+        "FUBUBIVIV_ID": 2,
+        "FNBNUCVIV_FVCCONVIV": [
+          {
+            "ID": 11,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 253,
+            "FVCELEVIV_ID": 64
+          },
+          {
+            "ID": 12,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 264,
+            "FVCELEVIV_ID": 65
+          },
+          {
+            "ID": 13,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 274,
+            "FVCELEVIV_ID": 66
+          },
+          {
+            "ID": 14,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 249,
+            "FVCELEVIV_ID": 63
+          },
+          {
+            "ID": 15,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 298,
+            "FVCELEVIV_ID": 68
+          },
+          {
+            "ID": 16,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 351,
+            "FVCELEVIV_ID": 80
+          },
+          {
+            "ID": 17,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 309,
+            "FVCELEVIV_ID": 70
+          },
+          {
+            "ID": 18,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 415,
+            "FVCELEVIV_ID": 92
+          },
+          {
+            "ID": 24,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 313,
+            "FVCELEVIV_ID": 71
+          },
+          {
+            "ID": 25,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 315,
+            "FVCELEVIV_ID": 72
+          },
+          {
+            "ID": 26,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 317,
+            "FVCELEVIV_ID": 73
+          },
+          {
+            "ID": 27,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 321,
+            "FVCELEVIV_ID": 75
+          },
+          {
+            "ID": 28,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 319,
+            "FVCELEVIV_ID": 74
+          },
+          {
+            "ID": 30,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 332,
+            "FVCELEVIV_ID": 76
+          },
+          {
+            "ID": 31,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 330,
+            "FVCELEVIV_ID": 76
+          },
+          {
+            "ID": 32,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 334,
+            "FVCELEVIV_ID": 77
+          },
+          {
+            "ID": 33,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 340,
+            "FVCELEVIV_ID": 78
+          },
+          {
+            "ID": 34,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 344,
+            "FVCELEVIV_ID": 79
+          },
+          {
+            "ID": 35,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 357,
+            "FVCELEVIV_ID": 81
+          },
+          {
+            "ID": 36,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 362,
+            "FVCELEVIV_ID": 82
+          },
+          {
+            "ID": 37,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 420,
+            "FVCELEVIV_ID": 93
+          },
+          {
+            "ID": 38,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 429,
+            "FVCELEVIV_ID": 94
+          },
+          {
+            "ID": 39,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 367,
+            "FVCELEVIV_ID": 83
+          },
+          {
+            "ID": 40,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 374,
+            "FVCELEVIV_ID": 84
+          },
+          {
+            "ID": 41,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 379,
+            "FVCELEVIV_ID": 85
+          },
+          {
+            "ID": 42,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 297,
+            "FVCELEVIV_ID": 67
+          },
+          {
+            "ID": 43,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 392,
+            "FVCELEVIV_ID": 87
+          },
+          {
+            "ID": 44,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 397,
+            "FVCELEVIV_ID": 88
+          },
+          {
+            "ID": 45,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 390,
+            "FVCELEVIV_ID": 86
+          },
+          {
+            "ID": 46,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 400,
+            "FVCELEVIV_ID": 89
+          },
+          {
+            "ID": 47,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 409,
+            "FVCELEVIV_ID": 90
+          },
+          {
+            "ID": 48,
+            "FNBNUCVIV_ID": 3,
+            "FVCCONVIV_ID": 413,
+            "FVCELEVIV_ID": 91
+          }
+        ],
+        "FNBNUCVIV_FNCPERSON": []
+      }
+    ]
+  }
+]
